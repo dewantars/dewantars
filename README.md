@@ -82,8 +82,11 @@
   <a href="mailto:dewantarahmasatria@gmail.com">
     <img src="https://img.shields.io/badge/Email-Dewanta-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/dewantars/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dewanta-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/dewantars">
+    <img src="https://img.shields.io/badge/GitHub-Dewanta-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
