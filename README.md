@@ -49,7 +49,7 @@
 📌 **Head of Media Department — Badan Mentoring (2025 - Now)**  
 📌 **Head of Media Division — BM Fakultas Teknik (2025)**  
 📌 **Media Staff — BMFT (2024)**  
-📌 **Head of Mountain Division — GEMARAWANA (2025 - Now)**  
+📌 **Head of Mountain Division — GEMARAWANA (2025)**  
 
 ---
 
@@ -66,12 +66,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dewantars&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewantars&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewantars&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
