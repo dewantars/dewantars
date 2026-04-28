@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dewanta Rahma Satria</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Future+Software+Developer;Web+%26+Mobile+Enthusiast;Creative+Thinker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Future+Software+Developer;Web+%26+Mobile+Enthusiast" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,go,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=vue,laravel,react,next,express,nest,flutter,python,java,cs,go,mysql,pgsql,git,github" />
 
 </p>
 
@@ -33,8 +33,8 @@
 ## 🧠 Skills
 
 ### 💡 Hard Skills
-![Software Dev](https://img.shields.io/badge/Software%20Development-Expert-blue)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Intermediate-yellow)
+![Web Dev](https://img.shields.io/badge/Web%20Development-Expert-blue)
+![Mobile Dev](https://img.shields.io/badge/Mobile%20Development-Advanced-green)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-Advanced-green)
 
 ### 🎨 Soft Skills
@@ -46,14 +46,21 @@
 
 ## 🏆 Experience
 
-📌 **Head of Media Department — Badan Mentoring (2025 - Now)**  
-📌 **Head of Media Division — BM Fakultas Teknik (2025)**  
-📌 **Media Staff — BMFT (2024)**  
-📌 **Head of Mountain Division — GEMARAWANA (2025)**  
+📌 **Asisten Praktikum Kontruksi Perangkat Lunak dan Basis Data (Februari 2026 - Sekarang)**  
+📌 **Asisten Praktikum Arsitektur Desain Perangkat Lunak dan Struktur Data (September 2025 - Februari 2026)**  
+📌 **Asisten Dosen Mata Kuliah Struktur Data (September 2025 - Januari 2026)**  
+📌 **UI/UX Intern di Yayasan Maqdis (Juli 2025 - September 2025)**
 
 ---
 
 ## 💼 Featured Project
+
+### 🥾 IDAMAN TSL App
+🚀 Role: **Team Leader & QA**  
+- Manage team & task distribution
+- STLC Process
+- Flora and fauna protection data management
+
 
 ### 🥾 HikePass App
 🚀 Role: **Team Leader**  
