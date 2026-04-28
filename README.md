@@ -24,7 +24,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vue,laravel,react,next,express,nest,flutter,python,java,cs,go,mysql,pgsql,git,github" />
+<img src="https://skillicons.dev/icons?i=vue,laravel,react,next,express,nest,flutter,python,java,cs,go,mysql,postgresql,git,github" />
 
 </p>
 
