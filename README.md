@@ -1,7 +1,7 @@
 # Hi, I'm Dewanta Rahma Satria 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Software+Quality+Assurance;Manual+Testing+%26+Automation+Testing;Building+Quality+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Software+Quality+Assurance;Manual+Testing+%26+Automation+Testing" />
 </p>
 
 <p align="center">
@@ -20,35 +20,11 @@
 
 ## About Me
 
-I'm a Software Engineering student at **Telkom University** with a strong interest in **Software Quality Assurance (SQA)**.
+I'm a Software Engineering student at **Telkom University** with a strong interest in **Software Quality Assurance (SQA)**. I focus on ensuring software quality through **Manual Testing and Automation Testing**, including functional, regression, API, and performance testing.
 
-I focus on ensuring software quality through **Manual Testing and Automation Testing**, covering application functionality, reliability, and user experience.
+I work with various testing tools, including **Jira, Playwright, Cypress, GitLab, Postman, and k6** to support test management, test automation, API validation, and performance testing.
 
-I'm passionate about identifying issues, improving testing processes, and exploring automation tools to build better and more reliable software.
-
----
-
-## Testing Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=playwright,postman,gitlab" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
-</p>
-
-### Testing Focus
-
-| Category | Skills |
-|---|---|
-| Manual Testing | Functional Testing, UI Testing, Regression Testing, Test Case Design |
-| Automation Testing | End-to-End Testing, UI Automation, Regression Automation |
-| API Testing | API Validation, Request & Response Testing |
-| Performance Testing | Load Testing, Performance Monitoring |
-| Test Management | Bug Reporting, Test Documentation, Defect Tracking |
+I enjoy identifying software defects, improving testing processes, and ensuring applications deliver reliable functionality and a great user experience.
 
 ---
 
