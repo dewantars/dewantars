@@ -43,7 +43,7 @@ I enjoy identifying software defects, improving testing processes, and ensuring 
 
 <p align="center">
   <a href="https://portfolio-v2-dewantars.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-white?style=for-the-badge&logo=vercel&logoColor=0A66C2" />
   </a>
   <a href="mailto:dewantarahmasatria@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-white?style=for-the-badge&logo=gmail&logoColor=EA4335" />
