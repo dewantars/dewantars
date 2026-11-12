@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://portfolio-v2-dewantars.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-00D9FF?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/dewantars">
     <img src="https://img.shields.io/badge/GitHub-dewantars-111111?style=flat-square&logo=github" />
@@ -43,7 +43,7 @@ I enjoy identifying software defects, improving testing processes, and ensuring 
 
 <p align="center">
   <a href="https://portfolio-v2-dewantars.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-white?style=for-the-badge&logo=vercel&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-white?style=for-the-badge&logo=vercel&logoColor=0A66C2" />
   </a>
   <a href="mailto:dewantarahmasatria@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-white?style=for-the-badge&logo=gmail&logoColor=EA4335" />
